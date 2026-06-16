@@ -10,6 +10,10 @@
 
 <!-- Add an image or a link relevant to this PR, if applicable. -->
 
+## 4. Image / Link (Atlas Evidence) (Optional)
+
+<!-- Add an image or a link relevant to this PR, if applicable.(if there are atlas) -->
+
 ## Ticket link
 
 <!-- Add the ticket link here -->
@@ -19,3 +23,4 @@
 - [ ] Filled PR details correctly (description, heading etc.)
 - [ ] Checked the base branch
 - [ ] Added the PR link to the relevant ticket
+- [ ] Atlas changes (Optional)
